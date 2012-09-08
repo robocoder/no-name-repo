@@ -1,0 +1,5 @@
+phpdoc.xml
+phpunit.xml
+nbproject/
+web/docs/
+web/coverage/

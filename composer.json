@@ -1,0 +1,38 @@
+{
+    "name": "robocoder/no-name-project",
+    "description": "No Name Project",
+    "homepage": "http://github.com/robocoder/no-name-repo",
+    "license": ["AGPL-3.0"],
+    "authors": [
+        {
+            "name": "Anthon Pang",
+            "email": "apang@softwaredevelopment.ca",
+            "homepage": "http://github.com/robocoder",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Robocoder": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.10",
+        "silex/silex": "*",
+        "twig/twig":           "*",
+        "symfony/twig-bridge": "2.1.*",
+        "symfony/form":        "2.1.*",
+        "symfony/validator":   "2.1.*",
+        "symfony/translation": "2.1.*",
+        "gabordemooij/redbean": "dev-master"
+    },
+    "require-dev": {
+        "behat/behat": ">=2.4.0",
+        "behat/mink": ">=1.4.0",
+        "behat/gherkin": ">=2.2.1",
+        "behat/mink-extension": "dev-master",
+        "behat/mink-goutte-driver": "dev-master",
+        "behat/mink-selenium2-driver": "dev-master",
+        "instaclick/php-webdriver": "dev-master",
+        "vipsoft/context-initializer-extension": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
