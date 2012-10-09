@@ -14,6 +14,7 @@ Packages via composer:
 
 Static resources:
 
-* [RequireJS 2.0.6](http://requirejs.org/)
-* Twitter [Bootstrap 2.1.1](http://twitter.github.com/bootstrap/)
+* [RequireJS 2.1.0](http://requirejs.org/)
+* [jQuery 1.8.2](http://jquery.com/)
+* [Bootstrap 2.1.1](http://twitter.github.com/bootstrap/)
 * [qunit 1.10](http://qunitjs.com/)
