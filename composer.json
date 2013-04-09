@@ -2,7 +2,7 @@
     "name": "robocoder/no-name-project",
     "description": "No Name Project",
     "homepage": "http://github.com/robocoder/no-name-repo",
-    "license": ["AGPL-3.0"],
+    "license": ["BSD-2-Clause"],
     "authors": [
         {
             "name": "Anthon Pang",
@@ -16,11 +16,12 @@
     },
     "require": {
         "php": ">=5.3.10",
+        "pimple/pimple": "*",
         "silex/silex": "*",
-        "twig/twig":           "*",
+        "twig/twig": "*",
         "symfony/twig-bridge": "2.1.*",
-        "symfony/form":        "2.1.*",
-        "symfony/validator":   "2.1.*",
+        "symfony/form": "2.1.*",
+        "symfony/validator": "2.1.*",
         "symfony/translation": "2.1.*",
         "gabordemooij/redbean": "dev-master"
     },
