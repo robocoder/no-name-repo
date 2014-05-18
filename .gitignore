@@ -1,6 +1,6 @@
 phpdoc.xml
 phpunit.xml
 nbproject/
-vendor/
+/vendor/
 web/docs/
 web/coverage/
