@@ -15,9 +15,10 @@ Packages installed via composer:
 
 Static resources:
 
-* [RequireJS 2.1.5](http://requirejs.org/)
-* [jQuery 1.9.1](http://jquery.com/)
-* [Bootstrap 2.3.1](http://twitter.github.com/bootstrap/)
-* [Flight 1.0.7](http://twitter.github.com/flight/)
-* [Foundation 4.1.1](http://foundation.zurb.com/)
-* [qunit 1.11.0](http://qunitjs.com/)
+* [RequireJS 2.1.11](http://requirejs.org/)
+* [jQuery 2.1.1](http://jquery.com/)
+* [Bootstrap 2.3.2](http://twitter.github.com/bootstrap/)
+* [Foundation 5.2.2](http://foundation.zurb.com/)
+* [Flight 1.1.4](https://github.com/flightjs/flight)
+* [Angular 1.3.0-beta.9](http://angularjs.org/)
+* [qunit 1.14.0](http://qunitjs.com/)
